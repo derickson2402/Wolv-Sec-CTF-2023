@@ -1,0 +1,13 @@
+bytearray(b'\x00\x00\x00\x01wctf')
+bytearray(b'\x00\x00\x00\x00{i_s')
+bytearray(b'\x00\x00\x00\x03w3ar')
+bytearray(b'\x00\x00\x00\x02_my_')
+bytearray(b'\x00\x00\x00\x05pr0f')
+bytearray(b'\x00\x00\x00\x04_s4i')
+bytearray(b'\x00\x00\x00\x07d_r0')
+bytearray(b'\x00\x00\x00\x06ll_y')
+bytearray(b'\x00\x00\x00\t0ur_')
+bytearray(b'\x00\x00\x00\x080wn_')
+bytearray(b'\x00\x00\x00\x0bcryp')
+bytearray(b'\x00\x00\x00\nt0}\x00')
+wctf{i_sw3ar_my_pr0f_s4id_r0ll_y0ur_0wn_crypt0}
